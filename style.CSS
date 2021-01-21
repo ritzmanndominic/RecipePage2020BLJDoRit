@@ -81,9 +81,9 @@
   }
 
   .picture_row1{
+    padding-top: 10%;
     height: 70%;
     width: 150%;
-    margin-top: 150px;
     margin-bottom: 60px;
     z-index: -10;
 }

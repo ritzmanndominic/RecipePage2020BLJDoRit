@@ -1,4 +1,20 @@
-.h1 {
-    color: royalblue;
-    font-size: 110px;
+.header {
+  background-color: #ffc328;
+  text-align: center;
+  color: whitesmoke;
+  height: 50px;
+  position: relative;
+}
+
+.footer {
+  background-color: #ffc328;
+  text-align: center;
+  padding: 3px;
+  vertical-align: bottom;
+  position: relative;
+  margin-top: 626px;
+}
+
+.background {
+  background-color: yellow;
 }

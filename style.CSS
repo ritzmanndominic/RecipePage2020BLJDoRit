@@ -9,7 +9,7 @@
   z-index: -10;
 }
 .recipe{
-    font-size: 55px;
+    font-size: 50px;
 }
 .footer {
   background-color: #ffc328;
@@ -49,7 +49,7 @@
   
   .dropdown {
     left: 0;
-    position: relative;
+    position: fixed;
     display: inline-block;
   }
   
@@ -75,3 +75,25 @@
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: #ff7575;}
+
+  .row {
+    margin-left: 60px;
+  }
+
+  .picture_row1{
+    height: 70%;
+    width: 150%;
+    margin-top: 150px;
+    margin-bottom: 60px;
+    z-index: -10;
+}
+
+.überschrift{
+    background-color: rgb(255, 170, 113);
+    z-index: 10;
+    transform: translate(0em, -150%);
+    text-align: center;
+    width: 110%;
+    height: 12%;
+    font-size: 15px;
+}

@@ -1,5 +1,5 @@
 .header {
-  background-color: #a52a2a79;
+  background-color: #0099ff;
   text-align: center;
   color: whitesmoke;
   width: 100%;
@@ -12,7 +12,7 @@
     font-size: 50px;
 }
 .footer {
-  background-color: #a52a2a9c;
+  background-color:#0099ff;
   text-align: center;
   font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   padding: 1%;
@@ -23,7 +23,7 @@
 }
 
 .background {
-  background-color: #883d00d5;
+  background-color: #494949;
 }
 
 .logo {
@@ -40,7 +40,7 @@
   height: 14%;
 }
 .dropbtn {
-    background-color: #3a2d2d;
+    background-color: #000000;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -57,7 +57,7 @@
     display: none;
     position: fixed;
     left: 0;
-    background-color: #a52a2a9c;
+    background-color: #0044ff9c;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
     z-index: 1;
@@ -75,7 +75,7 @@
   
   .dropdown:hover .dropdown-content {display: block;}
   
-  .dropdown:hover .dropbtn {background-color: #ff7575;}
+  .dropdown:hover .dropbtn {background-color: #75a8ff;}
 
   .row {
     margin-left: 60px;
@@ -90,7 +90,7 @@
 }
 
 .überschrift{
-    background-color: rgb(255, 170, 113);
+    background-color: rgb(113, 191, 255);
     z-index: 10;
     transform: translate(0em, -150%);
     text-align: center;

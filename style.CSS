@@ -9,7 +9,6 @@
 }
 .recipe {
   font-size: 3vw;
-
 }
 .footer {
   background-color: #0099ff;
@@ -130,3 +129,4 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #1e46f8;
 }
+

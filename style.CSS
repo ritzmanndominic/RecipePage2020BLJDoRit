@@ -3,13 +3,13 @@
   text-align: center;
   color: whitesmoke;
   width: 100%;
-  height: 15%;
   position: absolute;
   top: 1;
   z-index: -10;
 }
 .recipe {
-  font-size: 50px;
+  font-size: 3vw;
+
 }
 .footer {
   background-color: #0099ff;
@@ -25,6 +25,7 @@
 
 .background {
   background-color: #494949;
+  background-size: 110%;
   background-image: linear-gradient(
     to right,
     rgb(53, 76, 141),
@@ -42,8 +43,8 @@
   height: 5%;
   margin-left: auto;
   margin-right: auto;
-  width: 7%;
-  height: 14%;
+  max-width: 4%;
+  height: auto;
 }
 .dropbtn {
   background-color: #000000;
@@ -95,7 +96,7 @@
 .picture_row1 {
   padding-top: 10%;
   height: 70%;
-  width: 150%;
+  width: 130%;
   margin-bottom: 60px;
   z-index: -10;
 }
@@ -105,8 +106,8 @@
   z-index: 10;
   transform: translate(0em, -150%);
   text-align: center;
-  width: 110%;
-  height: 12%;
+  width: 100%;
+  height: 15%;
   font-size: 15px;
 }
 ::-webkit-scrollbar {
